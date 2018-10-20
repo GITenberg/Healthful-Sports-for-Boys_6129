@@ -1,5 +1,5 @@
 _repo: Healthful-Sports-for-Boys_6129
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Amusements'
 - !lcc 'GV'
 - !lcsh 'Games'
+- GITenberg
 tableOfContents: 'Marbles: how played -- Whip tops and top games -- Kites and how
   made -- Hoops, wheels and buzzers -- Let''s go a-fishing -- Boating and canoeing
   -- Small sail boats -- How to swim -- Styles of swimming -- Things boys should know
